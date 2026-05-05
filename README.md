@@ -46,15 +46,6 @@ Além do domínio em Oracle, possuo vivência com automação de rotinas via lin
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ribeiroarley&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroarley&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
-</p>
-
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribeiroarley/)
