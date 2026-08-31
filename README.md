@@ -1,8 +1,8 @@
 # Olá, eu sou o Arley Ribeiro 👋
 
-### 👨‍💻 Administrador de Banco de Dados (DBA) Júnior | Especialização em Oracle Database
+### 👨‍💻 Técnico em Informática | Suporte, Banco de Dados & SQL
 
-Sou um Administrador de Banco de Dados com um foco forte e direcionado para a administração, tuning, performance e segurança de ambientes **Oracle Database**. Tenho experiência no gerenciamento de infraestruturas on-premises e Cloud, buscando sempre implementar melhorias contínuas, garantir a alta disponibilidade e a integridade dos dados em ambientes críticos de produção. 
+Atuo como Técnico em Informática com foco em Banco de Dados **Oracle Database**, **MySQL**, **PostgreSQL** e SQL Server** . Tenho experiência no gerenciamento de infraestruturas on-premises e Cloud, buscando sempre implementar melhorias contínuas, garantir a alta disponibilidade e a integridade dos dados em ambientes críticos de produção. 
 
 Além do domínio em Oracle, possuo vivência com automação de rotinas via linha de comando e integração de pipelines para modernizar a gestão de banco de dados.
 
