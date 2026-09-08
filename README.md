@@ -57,7 +57,7 @@ Possuo sólida vivência na automação de rotinas operacionais com **Python** e
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ribeiroarley&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ribeiroarley&layout=compact&theme=radical&hide_border=true&count_private=true&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,TypeScript" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ribeiroarley&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10" alt="Top Langs" height="165" />
 </div>
 
 ---
