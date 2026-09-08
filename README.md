@@ -1,6 +1,6 @@
 # Olá, eu sou o Arley Ribeiro 👋
 
-### 🗄️ Administrador de Banco de Dados (DBA) | Oracle • Multi-DBMS • Cloud • Python
+### 🗄️ Administrador de Banco de Dados (DBA) | Oracle Database • MySQL  • PostgreSQL • SQL Server • Cloud • Automação com Python
 
 Administrador de Banco de Dados com foco em sustentação, integridade, alta disponibilidade e performance em ecossistemas relacionais críticos (**Oracle Database**, **PostgreSQL**, **MySQL** e **SQL Server**), operando tanto em arquiteturas *on-premises* quanto em Nuvem (**OCI** / **AWS**).
 
