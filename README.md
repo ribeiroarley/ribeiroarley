@@ -1,53 +1,70 @@
 # Olá, eu sou o Arley Ribeiro 👋
 
-### 👨‍💻 Técnico em Informática | Suporte, Banco de Dados & SQL
+### 🗄️ Administrador de Banco de Dados (DBA) | Oracle • Multi-DBMS • Cloud • Python
 
-Atuo como Técnico em Informática com foco em Banco de Dados **Oracle Database**, **MySQL**, **PostgreSQL** e **SQL Server** . Tenho experiência no gerenciamento de infraestruturas on-premises e Cloud, buscando sempre implementar melhorias contínuas, garantir a alta disponibilidade e a integridade dos dados em ambientes críticos de produção. 
+Administrador de Banco de Dados com foco em sustentação, integridade, alta disponibilidade e performance em ecossistemas relacionais críticos (**Oracle Database**, **PostgreSQL**, **MySQL** e **SQL Server**), operando tanto em arquiteturas *on-premises* quanto em Nuvem (**OCI** / **AWS**).
 
-Além do domínio em Oracle, possuo vivência com automação de rotinas via linha de comando e integração de pipelines para modernizar a gestão de banco de dados.
+Possuo sólida vivência na automação de rotinas operacionais com **Python** e **Shell Script**, pipelines de deploy/versionamento de banco de dados (CI/CD) e gerenciamento de ambientes virtualizados em **Linux**. Combino a disciplina de sustentação de banco de dados com conhecimentos práticos em Engenharia e Ciência de Dados.
 
 ---
 
-### 🔧 Habilidades e Tecnologias
+### 🛠️ Stacks & Tecnologias
 
-**Bancos de Dados:**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Bancos de Dados & Governança:**
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-E10098?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Linguagens e Ferramentas:**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+**Automação, Dados & Backend:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Infraestrutura, DevOps & Cloud:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Cloud Computing:**
-![Oracle Cloud Infrastructure (OCI)](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
+
+### 🚀 Destaques Profissionais & Projetos
+
+* **Sustentação & Deploy Contínuo de Banco de Dados:** Automação de pipelines para validação e sincronização de scripts SQL em produção via Python e Jenkins/Flyway, aplicando testes pós-deploy de objetos inválidos e fluxos de contingência/rollback.
+* **Laboratórios de Alta Disponibilidade (Oracle RAC):** Configuração de ambientes multi-node Oracle Real Application Clusters (RAC 19c) em Oracle Linux, utilizando VirtualBox, Vagrant, UDEV rules e Grid Infrastructure.
+* **Carbon Footprint Analysis Lab:** Projeto de Ciência de Dados com Python (Pandas/NumPy) modelando emissões corporativas de carbono e comparando consumo de frotas elétricas e a combustão com visualização analítica.
+* **GlobalForce Workforce Management BI:** Modelagem dimensional e consolidação de pipelines de dados operacionais e executivos para geração automatizada de relatórios estratégicos de força de trabalho.
+* **Análise Preditiva & Churn Telecom:** Pipeline de engenharia de recursos (One-Hot Encoding, flattening de estruturas JSON aninhadas via API externa) e EDA para predição e mitigação de evasão de clientes.
 
 ---
 
-### 🚀 Projetos de Destaque
+### 🎓 Certificações & Formação
 
-* **Automação de Versionamento de Scripts SQL:** Desenvolvimento de fluxos em Python integrados ao Jenkins para automação de versionamento de banco de dados, garantindo transições seguras em ambientes de produção.
-* **Carbon Footprint Analysis Lab:** Projeto de Ciência de Dados estruturado em Python (Pandas e NumPy) focado em estimar e analisar emissões de carbono em frotas corporativas comparando veículos a combustão e elétricos.
-* **GlobalForce (Automação de Relatórios):** Arquitetura Full Stack desenhada para automatizar a extração e o envio de relatórios executivos de força de trabalho, substituindo processos manuais.
-* **Análise de Dados - ONE:** Projetos de análise exploratória desenvolvidos durante a formação, com destaque para a Análise de Churn Telecom e a Análise de Vendas da Alura Store.
-
----
-
-### 🎓 Educação e Certificações
-
-* **Técnico em Informática** - SENAC DF (2025)
-* **Formação Oracle Next Education (ONE)** - +500 horas (Alura + Oracle), com conclusão das Trilhas *Tech Foundation*, *Tech Advanced G8 - Data Science*, *Modelagem de Dados*, *Machine Learning*, e *Autonomous Database*.
-* **Certificação:** OCI Foundations Associate
-* **Especialização:** Data Science com Python (Foco em pipelines de dados e ML)
+* 📜 **Oracle Cloud Infrastructure (OCI) Foundations Associate**
+* 🎓 **Formação Oracle Next Education (ONE)** (+500h) — *Alura + Oracle* (Data Science, Autonomous DB, SQL Avançado & Machine Learning)
+* 🎓 **Formação DBA (Oracle, MySQL, PostgreSQL, SQL Server)** — *Sandro Servino / Udemy*
+* 🎓 **Técnico em Informática** — *SENAC DF*
+* 🎓 **Tecnologia em Gestão Pública** — *UDF*
 
 ---
 
-### 📫 Como me encontrar
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ribeiroarley&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroarley&layout=compact&theme=radical" alt="Top Langs" height="160" />
+</div>
+
+---
+
+### 📫 Contato & Conexão
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribeiroarley/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.arleyribeiro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ribeiroarley)
 [![Alura](https://img.shields.io/badge/Perfil-Alura-025E8C?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/arleyrsx)
