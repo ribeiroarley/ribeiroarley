@@ -56,8 +56,7 @@ Possuo sólida vivência na automação de rotinas operacionais com **Python** e
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ribeiroarley&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ribeiroarley&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ribeiroarley&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
