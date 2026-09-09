@@ -10,7 +10,6 @@ Administrador de Banco de Dados especializado no ecossistema Oracle Database em 
 
 **Banco de Dados:**  
 ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-E10098?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Automação e Scripts:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
