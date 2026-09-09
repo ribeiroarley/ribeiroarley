@@ -1,6 +1,6 @@
 # Olá, eu sou o Arley Ribeiro 👋
 
-### Administrador de Banco de Dados (DBA) | Oracle Database, PL/SQL e Automação com Python
+### Administrador de Banco de Dados (DBA) | Oracle Database e Automação com Python
 
 Administrador de Banco de Dados especializado no ecossistema Oracle Database em ambientes locais e em nuvem.
 
